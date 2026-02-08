@@ -5,7 +5,7 @@
 
 <details>
   <p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+  [![Telegram](https://t.me/Tamermeghari)](https://t.me/Tamermeghari) <br>
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
